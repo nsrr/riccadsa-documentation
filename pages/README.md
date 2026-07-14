@@ -1,57 +1,112 @@
 ## About
 
-The Randomized Intervention with CPAP in Coronary Artery Disease and Obstructive Sleep Apnea (RICCADSA) trial is a prospective, single-center randomized controlled trial conducted in Sweden between 2005 and 2013. It enrolled 511 adult patients with angiography-verified coronary artery disease (CAD) who underwent percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) within 6 months prior to study start. The cohort includes patients diagnosed with obstructive sleep apnea (OSA) based on home sleep apnea testing (HSAT) or polysomnography (PSG): 399 patients with OSA (apnea–hypopnea index [AHI] ≥ 15 events/hr) and 112 without OSA (AHI \< 5 events/hr). Patients with borderline OSA (AHI 5.0–14.9) or predominantly central apneas were excluded. The main objective of the study was to assess whether continuous positive airway pressure (CPAP) treatment reduces long-term adverse cardiovascular outcomes. Participants were stratified by symptomatic status (Epworth Sleepiness Scale [ESS] ≥10 defined as sleepy, \<10 as nonsleepy). Nonsleepy OSA patients (n=200) were randomized 1:1 to CPAP treatment or no CPAP (control). Sleepy OSA patients (n=155) were offered CPAP in an observational arm. Subjects without OSA served as controls. Sleep studies were done both in-home (HSAT via Embletta portable digital system) and in-lab (overnight PSG) using standardized protocols Primary outcomes included a composite of new revascularization, myocardial infarction (MI), stroke, and cardiovascular mortality over an average follow-up of approximately 4.7 years. Secondary outcomes included cardiovascular biomarkers, left ventricular function, maximal exercise capacity, anxiety, depression, quality of life, detailed sleep parameters, and adherence to CPAP therapy. Main study assessments were performed at baseline, 3 months, and 1 year, with additional collected annually for up to 6 years.
+The Randomized Intervention with CPAP in Coronary Artery Disease and Obstructive Sleep Apnea (RICCADSA) trial is a prospective, single-center randomized controlled trial conducted between 2005 and 2013. It enrolled 511 adult patients from two hospitals in Skaraborg County, Sweden with angiography-verified coronary artery disease (CAD) who underwent percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) within 6 months prior to study start.
+
+The study incorporated home sleep apnea testing to screen all participants for OSA, followed by comprehensive baseline cardiovascular and sleep assessments. Patients with moderate-to-severe OSA were classified according to daytime sleepiness using the Epworth Sleepiness Scale (ESS). Non-sleepy participants with OSA (ESS \<10) were randomized to CPAP treatment or no CPAP, while sleepy participants with OSA (ESS ≥10) were offered CPAP without randomization. Participants without OSA served as an observational control group.
+
+Primary clinic assessments were performed at baseline, 3 months, and 1 year. Additional longitudinal follow-up included CPAP adherence data collected from device downloads and long-term surveillance for cardiovascular events, including myocardial infarction, stroke, repeat coronary revascularization, hospitalization, cardiovascular mortality, and all-cause mortality.
 
 ## Methods
 
 ### Clinic Visits/Data Collection
 
--   Screening HSAT performed at home with Embletta® device.
--   Participants with HSAT AHI ≥ 15/h and nonsleepy phenotype were randomized 1:1 to auto-titrating CPAP or no treatment.
--   In-hospital PSG performed for OSA participants with acquisition of EEG, EOG, EMG, ECG, respiratory effort, airflow, and oximetry.
--   Questionnaires and clinical data collected at baseline: included ESS, Functional Outcomes of Sleep Questionnaire, SF-36 Health Survey, Zung Self-Rated Depression Scale, Zung Self-Rated Anxiety Scale), and medication history, anthropometrics, smoking status, and echocardiographic parameters.
--   Blood samples collected after overnight fast at baseline and follow-up visits
--   Echocardiographic assessment and maximal exercise testing performed at baseline, 3 months, and 1 year.
+Participants were Swedish adults with angiography-confirmed coronary artery disease who had undergone coronary revascularization by PCI or CABG within the previous six months. Eligible participants were recruited after their cardiovascular condition had stabilized following revascularization. Participants with predominantly central sleep apnea/Cheyne-Stokes respiration or borderline OSA were not enrolled in the trial.
 
-### HSAT Collection / Scoring
+#### Screening Visit (Visit 0)
 
-Initial screening with unattended home sleep apnea testing (HSAT) was done using the Embletta® digital system measuring nasal pressure, thoracoabdominal movements, pulse oximetry, and body position. Apnea was defined as ≥ 90% airflow cessation; hypopnea as ≥ 50% reduction in nasal pressure or thoracoabdominal movement for ≥ 10 seconds.
+All eligible participants underwent unattended home sleep apnea testing (HSAT) using the Embletta® portable monitoring system. The screening study recorded nasal airflow, thoracoabdominal respiratory effort, pulse oximetry, body position, and heart rate to estimate the apnea-hypopnea index (AHI).
 
-### Polysomnology (PSG) Collection
+Respiratory events were scored using study-specific criteria. Apnea was defined as ≥90% reduction in airflow for at least 10 seconds, and hypopnea as ≥50% reduction in nasal pressure or thoracoabdominal movement for at least 10 seconds.
 
-All OSA participants underwent in-hospital attended PSG using Embla A10. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation. These data confirmed diagnosis and characterized sleep architecture, including total sleep time (TST) and REM sleep percent . Sleep stages and respiratory events scored according to established criteria.
+Participants were classified into one of three groups based on the HSAT results:
 
-### Polysomnology (PSG) Scoring
+-   **AHI \<5 events/hour:** Non-OSA control group
 
--   Sleep data centrally scored by blinded sleep technologists.
--   Sleep stages scored in 30-second epochs using standard rules.
--   Apneas defined as \>90% reduction in airflow for ≥10 seconds.
--   Hypopneas defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
+-   **5** $\leq$ **AHI \< 15 events/hour:** Borderline OSA (excluded from enrollment in the trial)
+
+-   **AHI** $\geq$ **15 events/hour:** OSA group, eligible for further baseline sleep evaluation
+
+#### Baseline Visit (Visit 1)
+
+Participants enrolled in the study subsequently attended the baseline clinic visit that included the following evaluations:
+
+-   clinical examination
+
+-   demographic information and smoking history
+
+-   medical history, comorbidities, and medication use
+
+-   coronary angiography and revascularization information
+
+-   anthropometric measurements and blood pressure
+
+-   fasting blood collection for routine laboratory testing and cardiovascular biomarkers
+
+-   transthoracic echocardiography
+
+-   questionnaires assessing daytime sleepiness (ESS), functional outcomes of sleep (FOSQ), quality of life (SF-36), anxiety, and depression
+
+##### 
+Polysomnology (PSG)
+
+Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10^©^ system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
+
+Sleep data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
+
+##### Randomization and Treatment Allocation:
+
+Treatment allocation was determined after completion of baseline sleep evaluation using OSA status from HSAT screening and sleepiness symptoms, classified by Epworth Sleepiness Scale (ESS) score:
+
+-   **ESS \<10 (non-sleepy OSA):** Randomized in a 1:1 ratio to CPAP treatment or no CPAP using block randomization stratified by sex and type of coronary revascularization (n = 200).
+
+-   **ESS ≥10 (sleepy OSA):** Offered CPAP treatment without randomization for ethical reasons (n=155).
+
+-   **AHI \<5 events/hour:** Included as a non-OSA observational control group.
+
+#### Follow-up Visits (Visits 2&3)
+
+Approximately three months after baseline, participants underwent a follow-up visit that repeated the major clinical assessments performed at baseline, including anthropometric measurements, blood pressure, laboratory testing, echocardiography, questionnaires, and maximal exercise testing.
+
+One year after baseline, participants underwent another comprehensive follow-up visit that repeated assessments obtained at baseline and visit 2.
+
+#### Long-Term Follow-up
+
+Following completion of the primary clinic visits, participants were followed longitudinally for major adverse cardiovascular events or mortality, including:
+
+-   myocardial infarction
+
+-   stroke
+
+-   repeat coronary revascularization
+
+-   hospitalization for atrial fibrillation or heart failure
+
+-   cardiovascular mortality
+
+-   all-cause mortality
 
 ### CPAP Usage Collection
 
--   CPAP usage data were collected longitudinally at scheduled visits (1, 3, 6, and 12 months, then annually up to 6 years) and downloaded from device memory for objective adherence monitoring.
+-   CPAP usage data were obtained from device memory at nine usage timepoints (1 month since start, 3 months, 6 months, and then annually 1 through 6 years) for objective adherence monitoring, as well as information on mask type, humidifier use, and treatment parameters.
 
 ## Data Overview
 
 ### Covariate/Phenotype Datasets (CSV)
 
-The [covariate dataset files](:files_path:/datasets) contain 511 unique subjects with repeated measures across study visits.
-
--   The study includes clinical and demographic attributes, questionnaire data, laboratory measurements, and CPAP adherence metrics collected at baseline and follow-ups.
--   Unique subject identifiers link clinical and sleep data across visits.
--   Repeated measures allow for longitudinal assessment up to 3 years and 6 years for some outcomes.
+The [covariate dataset files](:files_path:/datasets) contain 511 unique subjects with repeated measures across primary study visits.
 
 The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file includes folder names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated “domain” (e.g., 1=male, 2=female), which are described in the **domains** data dictionary file.
 
-The history of the covariate dataset and data dictionary files have been tracked on GitHub (<https://github.com/nsrr/riccadsa-data-dictionary>).
+The history of the covariate datasets and data dictionary files have been tracked on GitHub (<https://github.com/nsrr/riccadsa-data-dictionary>).
 
-The CPAP dataset **riccadsa-cpap-dataset-0.1.0.csv** contains the CPAP usage data for up to 9 follow-up timepoints downloaded from the device memory .
+The main covariate dataset **riccadsa-dataset-0.1.0.csv** includes study data from screening, three main clinic visits, as well as outcome/event records.
+
+The CPAP dataset **riccadsa-cpap-dataset-0.1.0.csv** contains the CPAP usage data for up to 9 follow up timepoints.
 
 The harmonized dataset **riccadsa-harmonized-dataset-0.1.0.csv** contains the most frequently used variables available in the RICCADSA dataset from the three main study visits. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
 
 |  |  |
-|-----------------------------------------------------|-------------------|
+|-------------------------------------------------|----------------------|
 | **Variable** | **Label** |
 | [nsrr_age](:variables_path:/nsrr_age) | Subject age |
 | [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
@@ -65,7 +120,11 @@ The harmonized dataset **riccadsa-harmonized-dataset-0.1.0.csv** contains the mo
 | [nsrr_pctdursp_sr](:variables_path:/nsrr_pctdursp_sr) | Percentage of total sleep duration (i.e., total sleep time, TST) in REM from polysomnography |
 | [nsrr_tst_f1](:variables_path:/nsrr_tst_f1) | Total Sleep Duration: the interval between sleep onset and sleep offset while the participant is asleep from polysomnography |
 
-The [cpap dataset] \### PSG Signal and Annotation Files - Raw PSG data with EEG, EOG, EMG, ECG, respiratory channels, and oximetry for diagnosis and staging. - Event annotations (apneas, hypopneas, arousals) scored per standard criteria. - Data used to determine variables such as total sleep time, sleep stages, and apnea-hypopnea indices.
+### PSG Signal and Annotation Files
+
+-   Raw PSG data with EEG, EOG, EMG, ECG, respiratory channels, and oximetry for diagnosis and staging.
+-   Event annotations (apneas, hypopneas, arousals) scored per standard criteria.
+-   Data used to determine variables such as total sleep time, sleep stages, and apnea-hypopnea indices.
 
 ## Access and Usage Considerations
 
