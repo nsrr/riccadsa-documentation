@@ -38,11 +38,11 @@ Participants enrolled in the study subsequently attended the baseline clinic vis
 
 -   questionnaires assessing daytime sleepiness (ESS), functional outcomes of sleep (FOSQ), quality of life (SF-36), anxiety, and depression
 
-##### Polysomnology (PSG)
+**Polysomnology (PSG)**
 
-Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10^©^ system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
+Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10^© system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
 
-##### Randomization and Treatment Allocation:
+**Randomization and Treatment Allocation**
 
 Treatment allocation was determined after completion of baseline sleep evaluation using OSA status from HSAT screening and sleepiness symptoms, classified by Epworth Sleepiness Scale (ESS) score:
 
