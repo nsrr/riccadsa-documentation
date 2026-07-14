@@ -16,42 +16,31 @@ Participants were Swedish adults with angiography-confirmed coronary artery dise
 
 All eligible participants underwent unattended home sleep apnea testing (HSAT) using the Embletta® portable monitoring system. The screening study recorded nasal airflow, thoracoabdominal respiratory effort, pulse oximetry, body position, and heart rate to estimate the apnea-hypopnea index (AHI).
 
-Respiratory events were scored using study-specific criteria. Apnea was defined as ≥90% reduction in airflow for at least 10 seconds, and hypopnea as ≥50% reduction in nasal pressure or thoracoabdominal movement for at least 10 seconds.
-
 Participants were classified into one of three groups based on the HSAT results:
 
 -   **AHI \<5 events/hour:** Non-OSA control group
 
--   **5** $\leq$ **AHI \< 15 events/hour:** Borderline OSA (excluded from enrollment in the trial)
+-   **5 \≤ AHI \< 15 events/hour:** Borderline OSA (excluded from enrollment in the trial)
 
--   **AHI** $\geq$ **15 events/hour:** OSA group, eligible for further baseline sleep evaluation
+-   **AHI ≥ 15 events/hour:** OSA group, eligible for further baseline sleep evaluation
 
 #### Baseline Visit (Visit 1)
 
 Participants enrolled in the study subsequently attended the baseline clinic visit that included the following evaluations:
 
--   clinical examination
-
--   demographic information and smoking history
-
--   medical history, comorbidities, and medication use
+-   demographic information, medical history, and anthropometric measurements
 
 -   coronary angiography and revascularization information
 
--   anthropometric measurements and blood pressure
-
--   fasting blood collection for routine laboratory testing and cardiovascular biomarkers
+-   fasting blood tests for clinical biomarkers
 
 -   transthoracic echocardiography
 
 -   questionnaires assessing daytime sleepiness (ESS), functional outcomes of sleep (FOSQ), quality of life (SF-36), anxiety, and depression
 
-##### 
-Polysomnology (PSG)
+##### Polysomnology (PSG)
 
 Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10^©^ system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
-
-Sleep data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
 
 ##### Randomization and Treatment Allocation:
 
@@ -59,7 +48,7 @@ Treatment allocation was determined after completion of baseline sleep evaluatio
 
 -   **ESS \<10 (non-sleepy OSA):** Randomized in a 1:1 ratio to CPAP treatment or no CPAP using block randomization stratified by sex and type of coronary revascularization (n = 200).
 
--   **ESS ≥10 (sleepy OSA):** Offered CPAP treatment without randomization for ethical reasons (n=155).
+-   **ESS ≥ 10 (sleepy OSA):** Offered CPAP treatment without randomization for ethical reasons (n=155).
 
 -   **AHI \<5 events/hour:** Included as a non-OSA observational control group.
 
@@ -89,6 +78,10 @@ Following completion of the primary clinic visits, participants were followed lo
 
 -   CPAP usage data were obtained from device memory at nine usage timepoints (1 month since start, 3 months, 6 months, and then annually 1 through 6 years) for objective adherence monitoring, as well as information on mask type, humidifier use, and treatment parameters.
 
+### Manual Scoring
+Home sleep apnea testing (HSAT) data were scored using study-specific criteria. Apnea was defined as ≥90% reduction in airflow for at least 10 seconds, and hypopnea as ≥50% reduction in nasal pressure or thoracoabdominal movement for at least 10 seconds.
+
+Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
 ## Data Overview
 
 ### Covariate/Phenotype Datasets (CSV)
