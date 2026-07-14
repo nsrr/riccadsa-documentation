@@ -20,7 +20,7 @@ Participants were classified into one of three groups based on the HSAT results:
 
 -   **AHI \<5 events/hour:** Non-OSA control group
 
--   **5 \≤ AHI \< 15 events/hour:** Borderline OSA (excluded from enrollment in the trial)
+-   **5 ≤ AHI \< 15 events/hour:** Borderline OSA (excluded from enrollment in the trial)
 
 -   **AHI ≥ 15 events/hour:** OSA group, eligible for further baseline sleep evaluation
 
@@ -76,13 +76,13 @@ Following completion of the primary clinic visits, participants were followed lo
 
 ### CPAP Usage Collection
 
--   CPAP usage data were obtained from device memory at nine usage timepoints (1 month since start, 3 months, 6 months, and then annually 1 through 6 years) for objective adherence monitoring, as well as information on mask type, humidifier use, and treatment parameters.
+CPAP usage data were obtained from device memory at nine usage timepoints (1 month since start, 3 months, 6 months, and then annually 1 through 6 years) for objective adherence monitoring, as well as information on mask type, humidifier use, and treatment parameters.
 
 ### Manual Scoring
+
 Home sleep apnea testing (HSAT) data were scored using study-specific criteria. Apnea was defined as ≥90% reduction in airflow for at least 10 seconds, and hypopnea as ≥50% reduction in nasal pressure or thoracoabdominal movement for at least 10 seconds.
 
-Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
-## Data Overview
+Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal. \## Data Overview
 
 ### Covariate/Phenotype Datasets (CSV)
 
@@ -99,7 +99,7 @@ The CPAP dataset **riccadsa-cpap-dataset-0.1.0.csv** contains the CPAP usage dat
 The harmonized dataset **riccadsa-harmonized-dataset-0.1.0.csv** contains the most frequently used variables available in the RICCADSA dataset from the three main study visits. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
 
 |  |  |
-|-------------------------------------------------|----------------------|
+|-------------------------------------------------|-----------------------|
 | **Variable** | **Label** |
 | [nsrr_age](:variables_path:/nsrr_age) | Subject age |
 | [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
