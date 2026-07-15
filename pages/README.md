@@ -40,7 +40,7 @@ Participants enrolled in the study subsequently attended the baseline clinic vis
 
 **Polysomnology (PSG)**
 
-Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10^© system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
+Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10\^© system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
 
 **Randomization and Treatment Allocation**
 
@@ -82,7 +82,9 @@ CPAP usage data were obtained from device memory at nine usage timepoints (1 mon
 
 Home sleep apnea testing (HSAT) data were scored using study-specific criteria. Apnea was defined as ≥90% reduction in airflow for at least 10 seconds, and hypopnea as ≥50% reduction in nasal pressure or thoracoabdominal movement for at least 10 seconds.
 
-Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal. \## Data Overview
+Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
+
+## Data Overview
 
 ### Covariate/Phenotype Datasets (CSV)
 
@@ -99,7 +101,7 @@ The CPAP dataset **riccadsa-cpap-dataset-0.1.0.csv** contains the CPAP usage dat
 The harmonized dataset **riccadsa-harmonized-dataset-0.1.0.csv** contains the most frequently used variables available in the RICCADSA dataset from the three main study visits. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. Key harmonized variables include:
 
 |  |  |
-|-------------------------------------------------|-----------------------|
+|------------------------------------|------------------------------------|
 | **Variable** | **Label** |
 | [nsrr_age](:variables_path:/nsrr_age) | Subject age |
 | [nsrr_sex](:variables_path:/nsrr_sex) | Subject sex |
