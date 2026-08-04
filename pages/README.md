@@ -77,6 +77,10 @@ Home sleep apnea testing (HSAT) data were scored using study-specific criteria. 
 
 Polysomnography data were centrally scored by blinded sleep technologists. Sleep stages scored in 30-second epochs using standard rules. Apneas were defined as \>90% reduction in airflow for ≥10 seconds. Hypopneas were defined as ≥50% reduction in airflow or thoracoabdominal movement for ≥10 seconds, with associated desaturation or arousal.
 
+## Data de-identification
+
+All personally identifiable information (PII) was removed from the data files by the NSRR team.
+
 ## Data overview
 ### Covariate/phenotype datasets (CSV)
 The [covariate dataset files](:files_path:/datasets) contain 511 unique subjects with repeated measures across primary study visits.
