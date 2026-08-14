@@ -40,7 +40,7 @@ Participants enrolled in the study subsequently attended the baseline clinic vis
 
 - questionnaires assessing daytime sleepiness (ESS), functional outcomes of sleep (FOSQ), quality of life (SF-36), anxiety, and depression
 
-**Polysomnology (PSG)**
+**Polysomnography (PSG)**
 
 Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unattended overnight polysomnography (PSG) using Embla A10© system for detailed characterization of sleep architecture and respiratory events. Physiological signals included cortical EEG, eye movement, chin muscle tone, ECG, thoracic and abdominal respiratory movements, nasal airflow and pressure, oxygen saturation.
 
@@ -48,11 +48,11 @@ Participants in the OSA group (HSAT AHI ≥ 5) also underwent a subsequent unatt
 
 Treatment allocation was determined after completion of baseline sleep evaluation using OSA status from HSAT screening and sleepiness symptoms, classified by Epworth Sleepiness Scale (ESS) score:
 
-- **ESS \<10 (non-sleepy OSA):** Randomized in a 1:1 ratio to CPAP treatment or no CPAP using block randomization stratified by sex and type of coronary revascularization (n = 200).
+- **ESS \<10 (non-sleepy OSA):** Randomized in a 1:1 ratio to CPAP treatment or no CPAP using block randomization stratified by sex and type of coronary revascularization (n = 244).
 
-- **ESS ≥ 10 (sleepy OSA):** Offered CPAP treatment without randomization for ethical reasons (n=155).
+- **ESS ≥ 10 (sleepy OSA):** Offered CPAP treatment without randomization for ethical reasons (n = 155).
 
-- **AHI \<5 events/hour:** Included as a non-OSA observational control group.
+- **AHI \<5 events/hour:** Included as a non-OSA observational control group (n = 122).
 
 #### Follow-up visits (Visits 2&3)
 
