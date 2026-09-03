@@ -126,6 +126,7 @@ The harmonized dataset **riccadsa-harmonized-dataset-0.1.0.csv** contains the mo
 - Raw PSG data with EEG, EOG, EMG, ECG, respiratory channels, and oximetry for diagnosis and staging.
 - Event annotations (apneas, hypopneas, arousals) scored per standard criteria.
 - Data used to determine variables such as total sleep time, sleep stages, and apnea-hypopnea indices.
+- [NSRR-harmonized files](:files_path:/harmonized) available ([read about the NSRR harmonization process](https://gitlab-scm.partners.org/zzz-public/nsrr/-/tree/master/studies?ref_type=heads))
 
 ## Access and usage restrictions
 
