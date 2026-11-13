@@ -144,7 +144,7 @@ Users must include the following text in any Acknowledgements section:
 
 > Funding for the RICCADSA randomized control trial was provided by the Swedish Research Council, the Swedish Heart-Lung Foundation, the Agreement concerning research and education of doctors of Västra Götalandsregionen, Research Fund at Skaraborg Hospital, Skaraborg Research and Development Council, the Heart Foundation of Kärnsjukhuset, ResMed Foundation, and ResMed Ltd. ResMed Sweden supplied some sleep recording devices and technical support. None of the funders had direct influence on study design, data analysis, manuscript drafting, or publication decisions.
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007).
 
 ## Changelog
 
